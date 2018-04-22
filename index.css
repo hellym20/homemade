@@ -1,3 +1,7 @@
+body{
+	background-color: black;
+}
+
 .outer{
 	height: 1600px;
 	width: 1500px;
