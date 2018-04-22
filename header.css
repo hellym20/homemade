@@ -1,0 +1,42 @@
+.hdr1{
+	height: 50px;
+	width: 1500px;
+	border: 1px solid black;
+	background-image: url('img/imgpoly.jpg');
+}
+.icondiv{
+	height: 45px;
+	width: 250px;
+	border: 1px solid black;
+	float: left;
+	padding: 3px 1px 1px;
+}
+.icon{
+	text-decoration: none;
+	color: teal;
+	font-family: Centaur;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+.search{
+	border: 1px solid black;
+}
+.signup{
+	border: 1px solid black;
+	padding-top: 12px;
+	padding-left: 30px;
+}
+.cart{
+	border: 1px solid black;
+	padding-top: 12px;
+	padding-left: 30px;
+}
+.signcart{
+	text-decoration: none;
+	color: navy;
+	font-family: Perpetua;
+	font-size: 22px;
+	text-align: center;
+
+}
